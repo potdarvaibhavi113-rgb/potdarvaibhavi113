@@ -1,15 +1,15 @@
-<!-- ANIMATED MINIMALIST TERMINAL NAMEPLATE -->
+<!-- ADVANCED ZIG-ZAG TERMINAL HEADER -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=>>>>+VAIBHAVI+POTDAR+<<<<;💻+COMPUTER+SCIENCE+ENGINEER;📊+DATA+SCIENCE+ASPIRANT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E%3E%3E%3E+VAIBHAVI+POTDAR+%3C%3C%3C%3C;%E2%96%A1+INITIALIZING+DEVELOPER+INTERFACE...;%E2%96%A4+WELCOME+TO+MY+ENGINEERING+PORTFOLIO" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- SUBSURFACE SYSTEM SUBTITLE -->
 <p align="center">
   <code>⚡ SYSTEM STATUS: ACTIVE ⚡</code><br>
-  <b>💻 Computer Science & Engineering Undergraduate | Data Science Aspirant</b>[cite: 1]<br>
-  📍 Kolhapur, Maharashtra 416212[cite: 1]
+  <b>💻 Computer Science & Engineering Undergraduate | Data Science Aspirant</b><br>
+  📍 Kolhapur, Maharashtra 416212
 </p>
 
 <p align="center">
@@ -29,25 +29,25 @@
 
 ## 💫 Professional Summary
 
-> I am a Computer Science Engineering student with a completed diploma in Computer Engineering[cite: 1]. I possess a strong interest and foundational experience in Data Science & Machine Learning, programming, and problem-solving[cite: 1]. I am actively seeking practical experience through internships and projects to further specialize in data-driven roles[cite: 1].
+> I am a Computer Science Engineering student with a completed diploma in Computer Engineering. I possess a strong interest and foundational experience in Data Science & Machine Learning, programming, and problem-solving. I am actively seeking practical experience through internships and projects to further specialize in data-driven roles.
 
 ---
 
 ## 🎓 Academic Timeline
 
 ### 🏫 Bachelor of Technology (B.Tech)
-* **Institution:** Dr. D. Y. Patil Pratishthan's College of Engineering, Kolhapur, Maharashtra[cite: 1]
-* **Department:** Computer Science & Engineering[cite: 1]
-* **Timeline:** Expected Completion: September 2028[cite: 1]
-* **Location:** Salokhenagar, Kolhapur[cite: 1]
-* **Current Standing:** Current Track GPA / CGPA: 8.4[cite: 1]
+* **Institution:** Dr. D. Y. Patil Pratishthan's College of Engineering, Kolhapur, Maharashtra
+* **Department:** Computer Science & Engineering
+* **Timeline:** Expected Completion: September 2028
+* **Location:** Salokhenagar, Kolhapur
+* **Current Standing:** Current Track GPA / CGPA: 8.4
 
 ### 📜 Diploma in Engineering
-* **Institution:** K. P. Patil Institute of Technology, Kolhapur, Maharashtra[cite: 1]
-* **Department:** Computer Engineering[cite: 1]
-* **Timeline:** Completed: July 2025[cite: 1]
-* **Location:** Mudal, Kolhapur[cite: 1]
-* **Final Score:** 87.26%[cite: 1]
+* **Institution:** K. P. Patil Institute of Technology, Kolhapur, Maharashtra
+* **Department:** Computer Engineering
+* **Timeline:** Completed: July 2025
+* **Location:** Mudal, Kolhapur
+* **Final Score:** 87.26%
 
 ---
 
@@ -94,10 +94,10 @@
 
 ## 💼 Industry Experience
 
-* 🔬 **Data Science & Machine Learning Intern** | **Eonlogic Web & Applications Development, Pune**[cite: 1]
-  * *Timeline: June - July 2024 (6 Weeks Intensive Program)*[cite: 1]
-  * Focused directly on extracting data-driven insights, architectural model development, and deploying practical AI applications[cite: 1].
-  * Completed targeted operational modules in specialized predictive pipelines[cite: 1].
+* 🔬 **Data Science & Machine Learning Intern** | **Eonlogic Web & Applications Development, Pune**
+  * *Timeline: June - July 2024 (6 Weeks Intensive Program)*
+  * Focused directly on extracting data-driven insights, architectural model development, and deploying practical AI applications.
+  * Completed targeted operational modules in specialized predictive pipelines.
 
 ---
 
@@ -145,28 +145,28 @@
 </table>
 
 ### 🌤️ [Responsive Weather Forecast Application](#)
-* **Role:** Logic Developer | *Timeline: July 2024 - April 2025*[cite: 1]
-* **Stack:** HTML, CSS, JavaScript, OpenWeather API[cite: 1]
-* **Highlight:** Programmed an interactive, fully responsive UI component to query and map real-time climate telemetry updates fetched via asymmetric API calls[cite: 1].
+* **Role:** Logic Developer | *Timeline: July 2024 - April 2025*
+* **Stack:** HTML, CSS, JavaScript, OpenWeather API
+* **Highlight:** Programmed an interactive, fully responsive UI component to query and map real-time climate telemetry updates fetched via asymmetric API calls.
 
 ---
 
 ## 🏅 Professional Certifications
 
-* 🛡️ **Tata Cybersecurity Analyst Job Simulation** — *Forage (Granted: 12 June 2026)*[cite: 1]
-  * Demonstrated core systems cybersecurity evaluation and programmatic problem-solving capabilities[cite: 1].
-* 📊 **Data Labeling Job Simulation** — *Forage (Granted: 17 June 2026)*[cite: 1]
-  * Showcased functional execution skills in precise multi-class data classification, data modeling, and dataset cleaning preparations[cite: 1].
-* 🌐 **Web Development with HTML, CSS, and JavaScript** — *CodeSignal (Granted: April 2026)*[cite: 1]
-  * Successfully mastered foundational web infrastructure elements and core client-side script manipulation[cite: 1].
-* 🧠 **Enhancing Soft Skills and Personality** — *NPTEL (Granted: 17 May 2026)*[cite: 1]
-  * **Final Proctored Score: 85%**[cite: 1]
-* ⚙️ **Certificate for Completion of C Training** — *NPTEL (Granted: 19 December 2025)*[cite: 1]
-  * **Final Proctored Score: 90%**[cite: 1]
-* ☕ **Java Programming Beginners Course** — *Great Learning Academy (Granted: March 2024)*[cite: 1]
-  * Verified foundational core programming execution and object-oriented syntax logic patterns[cite: 1].
-* 🔬 **Industrial Internship Qualification Certificate** — *Eonlogic Web & Application Development (Granted: July 2024)*[cite: 1]
-  * Certified 6-weeks intensive commitment targeting corporate AI logic workflows and machine learning engineering tracks[cite: 1].
+* 🛡️ **Tata Cybersecurity Analyst Job Simulation** — *Forage (Granted: 12 June 2026)*
+  * Demonstrated core systems cybersecurity evaluation and programmatic problem-solving capabilities.
+* 📊 **Data Labeling Job Simulation** — *Forage (Granted: 17 June 2026)*
+  * Showcased functional execution skills in precise multi-class data classification, data modeling, and dataset cleaning preparations.
+* 🌐 **Web Development with HTML, CSS, and JavaScript** — *CodeSignal (Granted: April 2026)*
+  * Successfully mastered foundational web infrastructure elements and core client-side script manipulation.
+* 🧠 **Enhancing Soft Skills and Personality** — *NPTEL (Granted: 17 May 2026)*
+  * **Final Proctored Score: 85%**
+* ⚙️ **Certificate for Completion of C Training** — *NPTEL (Granted: 19 December 2025)*
+  * **Final Proctored Score: 90%**
+* ☕ **Java Programming Beginners Course** — *Great Learning Academy (Granted: March 2024)*
+  * Verified foundational core programming execution and object-oriented syntax logic patterns.
+* 🔬 **Industrial Internship Qualification Certificate** — *Eonlogic Web & Application Development (Granted: July 2024)*
+  * Certified 6-weeks intensive commitment targeting corporate AI logic workflows and machine learning engineering tracks.
 
 ---
 

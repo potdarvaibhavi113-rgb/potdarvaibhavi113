@@ -172,7 +172,8 @@
 
 ## 📊 Live Metrics & System Diagnostics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=potdarvaibhavi113&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdarvaibhavi113&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF" width="48%" />
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Primary%20Project%20Size&color=00E5FF" />
+  <img src="https://img.shields.io/github/languages/top/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Core%20Stack&color=00E5FF" />
+  <img src="https://img.shields.io/github/last-commit/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Latest%20Deployment&color=00E5FF" />
 </p>

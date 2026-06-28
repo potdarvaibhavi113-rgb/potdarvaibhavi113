@@ -173,6 +173,6 @@
 ## 📊 Live Metrics & System Diagnostics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=potdarvaibhavi113&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0B0F19&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdarvaibhavi113&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0B0F19&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=potdarvaibhavi113&show_icons=true&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potdarvaibhavi113&layout=compact&theme=dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF" width="48%" />
 </p>

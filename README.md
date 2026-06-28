@@ -173,7 +173,7 @@
 ## 📊 Live Metrics & System Diagnostics
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Primary%20Project%20Size&color=00E5FF" />
-  <img src="https://img.shields.io/github/languages/top/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Core%20Stack&color=00E5FF" />
-  <img src="https://img.shields.io/github/last-commit/potdarvaibhavi113/Django_Social_Sphere?style=for-the-badge&label=Latest%20Deployment&color=00E5FF" />
+  <img src="https://img.shields.io/github/followers/potdarvaibhavi113?label=Followers&style=for-the-badge&color=00E5FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/potdarvaibhavi113?label=Total%20Stars&style=for-the-badge&color=00E5FF" />
+  <img src="https://img.shields.io/github/search/potdarvaibhavi113/potdarvaibhavi113/python?label=Python%20Repositories&style=for-the-badge&color=00E5FF&logo=python" />
 </p>

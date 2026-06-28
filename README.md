@@ -47,7 +47,7 @@
 * **Department:** Computer Engineering
 * **Timeline:** Completed: July 2025
 * **Location:** Mudal, Kolhapur
-* **Final Score:** 87.26%
+* **Final Score:** 89.29%
 
 ---
 

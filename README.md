@@ -173,7 +173,7 @@
 ## 📊 Live Metrics & System Diagnostics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/potdarvaibhavi113?label=Followers&style=for-the-badge&color=00E5FF&logo=github" />
-  <img src="https://img.shields.io/github/stars/potdarvaibhavi113?label=Total%20Stars&style=for-the-badge&color=00E5FF" />
-  <img src="https://img.shields.io/github/search/potdarvaibhavi113/potdarvaibhavi113/python?label=Python%20Repositories&style=for-the-badge&color=00E5FF&logo=python" />
+  <img src="https://img.shields.io/badge/Account_Status-Verified_Developer-00E5FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Primary_Focus-Data_Science_%26_Full_Stack-00E5FF?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaborations-00E5FF?style=for-the-badge&logo=git" />
 </p>
